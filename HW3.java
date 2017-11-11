@@ -3,8 +3,8 @@ import java.util.HashMap;
 //import java.util.Scanner;
 
 /**
- * @author TODO: please add student ID and name here
- * Try to write some comments for your codes (methods, 10 points)
+ * @author TODO: B0544212 楊舒涵
+ * Try to write some comments for your codes (methods, 10 points)使用enumerated type、建一個洗牌的method和發牌的method。
  */
 public class HW3 {
 	public static void main(String[] args) {
